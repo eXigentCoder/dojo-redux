@@ -1,9 +1,7 @@
 "use strict";
 const { createStore } = require("redux");
 
-const initialState = {
-  amountOfCoffeeLeft: 0
-};
+const initialState = {};
 
 let store = createStore(coffeeMugReducer);
 

@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/eXigentCoder/dojo-redux#readme",
   "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "fs-extra": "7.0.1",
     "immutable": "4.0.0-rc.12",
     "lodash": "4.17.11",
     "redux": "4.0.1"
