@@ -1,0 +1,24 @@
+{
+  "name": "dojo-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eXigentCoder/dojo-redux.git"
+  },
+  "author": "Ryan Kotzen <ryan@krimzen.ninja> (http://blog.exigentcoder.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/eXigentCoder/dojo-redux/issues"
+  },
+  "homepage": "https://github.com/eXigentCoder/dojo-redux#readme",
+  "dependencies": {
+    "immutable": "4.0.0-rc.12",
+    "lodash": "4.17.11",
+    "redux": "4.0.1"
+  }
+}
